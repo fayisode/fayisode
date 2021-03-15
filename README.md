@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fayisode
-- 👀 I’m interested in mobile development and machine learnijng. 
-- 🌱 I’m currently learning 
+- 👀 I’m interested in mobile development and machine learning. 
+- 🌱 I’m currently learning "Reinforcement Learning" and Using AI with Flutter
 - 💞️ I’m looking to collaborate on any flutter or machine learning project
 - 📫 How to reach me fayisode@gmail.com, Discord: wizard#1716
 
