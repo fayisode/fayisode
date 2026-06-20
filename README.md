@@ -8,7 +8,7 @@ PhD researcher at [University College Cork](https://www.ucc.ie), School of Compu
 
 ## Research
 
-EEG microstates with variational autoencoders, at the AI and Cognitive Load Research Lab and the Insight SFI Research Centre for Data Analytics (UCC). The work learns explainable, disentangled latent structure over scalp topographic maps: probabilistic soft clustering in place of classical k-means. Core model is Conv-VaDE (Convolutional Variational Deep Embedding) with a Gaussian-mixture prior, trained on the LEMON resting-state dataset.
+EEG microstates with variational autoencoders, at the AI and Cognitive Load Research Lab. The work learns explainable, disentangled latent structure over scalp topographic maps: probabilistic soft clustering in place of classical k-means. Core model is Conv-VaDE (Convolutional Variational Deep Embedding) with a Gaussian-mixture prior, trained on the LEMON resting-state dataset.
 
 **Publications**
 
